@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--pale-dogwood);
+    color: var(--eerie-black);
+}
+
+header {
+    background-color: var(--charcoal);
+    color: var(--rose-quartz);
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: var(--rose-quartz);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+footer {
+    background-color: var(--charcoal);
+    color: var(--rose-quartz);
+    padding: 20px;
+    text-align: center;
+}

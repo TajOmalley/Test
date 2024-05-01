@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulations Nathaly!</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Congratulations Nathaly!</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="about">
+            <h2>About Nathaly</h2>
+            <p>Dear Nathaly,</p>
+            <p>Congratulations on passing your organic chemistry course! Your hard work, dedication, and intelligence have paid off, and I couldn't be prouder of you.</p>
+            <p>Your perseverance and commitment to your studies are truly inspiring. I have no doubt that with your passion for science and your exceptional abilities, you're going to be an incredible doctor one day.</p>
+            <p>Keep shining bright, Nathaly. This is just the beginning of your journey towards achieving your dreams.</p>
+            <p>With all my love and admiration,</p>
+            <p>[Your Name]</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Nathaly's Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
